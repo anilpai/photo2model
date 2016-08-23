@@ -1,0 +1,24 @@
+{
+  "name": "photo2model",
+  "version": "1.0.0",
+  "description": "convert photos to 3D Models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anilpai/photo2model.git"
+  },
+  "keywords": [
+    "photo",
+    "3D",
+    "model"
+  ],
+  "author": "Anil Pai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anilpai/photo2model/issues"
+  },
+  "homepage": "https://github.com/anilpai/photo2model#readme"
+}
